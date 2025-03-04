@@ -24,3 +24,6 @@ document.getElementById('passwordForm').addEventListener('submit', function (eve
         console.error('Error:', error);
     });
 });
+fetch('https://shantodey.github.io/random_password_generator/', {
+    // ...
+});
